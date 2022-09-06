@@ -1,2 +1,1 @@
-# Fixed.github.io
-a blog
+# Fixed's blogs
